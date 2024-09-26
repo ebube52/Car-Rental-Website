@@ -1,3 +1,41 @@
+# Wheels On Demand
+
+Wheels On Demand is a modern car rental service website that offers customers a seamless and convenient way to rent cars online. Whether you're traveling, need a car for a weekend getaway, or require a temporary vehicle, Wheels On Demand has you covered. Browse through our wide range of vehicles and book with ease.
+
+## Features
+- **User-friendly Interface**: Clean and intuitive design for easy navigation.
+- **Real-time Availability**: See available cars in real-time based on your selected dates.
+- **Advanced Search Filters**: Filter cars by make, model, type, and price range.
+- **Booking System**: Secure and simple booking process.
+- **User Profiles**: Create and manage user profiles for faster booking and vehicle preferences.
+- **Mobile Responsive**: Optimized for mobile devices for a seamless experience on the go.
+
+## Technologies Used
+- **Front-end**: 
+  - React.js
+  - Bootstrap
+  - React Router
+- **Back-end**:
+  - Node.js
+  - Express.js
+- **Database**: 
+  - MongoDB
+- **Other Tools**:
+  - Redux (for state management)
+  - Stripe API (for secure payments)
+  - Google Maps API (for location-based services)
+
+## Installation
+
+### Prerequisites
+- Node.js and npm installed on your machine.
+- MongoDB instance running locally or on the cloud.
+
+### Steps to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/WheelsOnDemand.git
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
