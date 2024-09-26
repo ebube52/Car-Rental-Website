@@ -34,7 +34,7 @@ Wheels On Demand is a modern car rental service website that offers customers a 
 ### Steps to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/WheelsOnDemand.git
+   git clone https://github.com/ebube-52/WheelsOnDemand.git
 
 # Getting Started with Create React App
 
